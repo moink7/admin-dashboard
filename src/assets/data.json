@@ -1,0 +1,52 @@
+{
+    "categories": [
+      {
+        "value": 40,
+        "heading": "Tees"
+      },
+  
+      {
+        "value": 100,
+        "heading": "Shorts"
+      },
+      {
+        "value": 80,
+        "heading": "Sweatpants"
+      },
+      {
+        "value": 60,
+        "heading": "Hoodies"
+      }
+    ],
+  
+    "transaction": [
+      {
+        "id": "Tee_2",
+        "amount": 4000,
+        "quantity": 4,
+        "discount": 300,
+        "status": "Processing"
+      },
+      {
+        "id": "Sweatpants_1",
+        "amount": 5100,
+        "quantity": 2,
+        "discount": 900,
+        "status": "Processing"
+      },
+      {
+        "id": "Tee_5",
+        "amount": 13000,
+        "quantity": 91,
+        "discount": 0,
+        "status": "Shipped"
+      },
+      {
+        "id": "Shorts_3",
+        "amount": 2300,
+        "quantity": 4,
+        "discount": 2000,
+        "status": "Processing"
+      }
+    ]
+  }
