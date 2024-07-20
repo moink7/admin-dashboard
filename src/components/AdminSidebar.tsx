@@ -15,7 +15,7 @@ const Location = useLocation()
       <div>
         <h5>Dashboard</h5>
         <ul>
-            <Li url="/admin/dashboard" text="Dashboard" Icon={RiDashboardFill} location={Location} />
+            <Li url="/" text="Dashboard" Icon={RiDashboardFill} location={Location} />
 
             <Li url="/admin/products" text="Products" Icon={RiShoppingBag3Fill} location={Location} />
 

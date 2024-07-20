@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import { Suspense, lazy } from "react"
 import Loader from "./components/Loader";
-import Home from "./pages/Home";
 
 const Dashboard = lazy(() => import("./pages/dashboard"));
 const Products = lazy(() => import("./pages/Products"));
