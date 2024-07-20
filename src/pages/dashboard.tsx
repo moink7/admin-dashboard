@@ -7,7 +7,6 @@ import data from '../assets/data.json';
 import { BarChart, DoughnutChart } from "../components/Charts";
 import { BiMaleFemale } from "react-icons/bi";
 import Table from "../components/DashboardTable"
-import Transactions from "./Transactions";
 
 
 

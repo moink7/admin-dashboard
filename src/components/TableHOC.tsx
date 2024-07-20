@@ -22,7 +22,6 @@ heading: string, showPagination: boolean = false){
             prepareRow,
             nextPage,
             pageCount,
-            gotoPage,
             state: { pageIndex },
             previousPage,
             canNextPage,
